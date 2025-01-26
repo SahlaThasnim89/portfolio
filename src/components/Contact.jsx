@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <section>
         <div className="mx-auto max-w-6xl">
-            <p className="my-10 text-center text-3xl lg:text-8xl">
+            <p className="my-20 text-center text-3xl lg:text-8xl">
                 Intrested In Working Together?
             </p>
             <p className="p-4 text-center text-xl">{CONTACT.text}</p>

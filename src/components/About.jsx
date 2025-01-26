@@ -6,7 +6,7 @@ const About = () => {
     <section>
         <h2 className="my-10 text-center text-3xl lg:text-8xl">About Me</h2>
         <div className="flex items-center justify-center">
-            <p className="m-8 max-w-6xl text-3xl lg:text-6xl font-light ">{ABOUT}</p>
+            <p className="m-8 max-w-6xl text-2xl lg:text-2xl font-light ">{ABOUT}</p>
         </div>
     </section>
   )
