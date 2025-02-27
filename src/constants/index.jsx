@@ -92,13 +92,7 @@ export const PROJECTS = [
   {
     id: 9,
     title: "Quick-cart : Quick Commerce & Delivery Tracking System (MERN + Next.js API)",
-    description: "Built with MongoDB, Render, Next.js, Next API, Tailwind CSS, and NextAuth, this project includes:
-✅ Real-Time Tracking with WebSockets (Socket.io) 📍
-✅ Role-Based Access Control (RBAC) for Customers & Delivery Partners 🔐
-✅ Live Delivery Location Tracking using Google Maps API 🗺️
-✅ Secure Environment Variables stored in .env.local 🔒
-✅ Setup Guide with installation & server instructions 📄
-✅ Test Credentials for Customer & Delivery Partner.",
+    description: "Built with MongoDB, Render, Next.js, Next API, Tailwind CSS, and NextAuth, featuring real-time tracking with Socket.io, RBAC for customers and delivery partners, and live delivery location tracking with Google Maps API.",
     imgSrc: project9,
     link: "https://quick-commerse.onrender.com",
   },
