@@ -15,7 +15,7 @@ import project5 from "../assets/project5.webp";
 import project6 from "../assets/project6.webp";
 import project7 from "../assets/project7.webp";
 import project8 from "../assets/project8.webp";
-// import project9 from "../assets/project9.webp";
+import project9 from "../assets/project9.webp";
 
 export const LINKS = [
   { id: "projects", name: "projects" },
@@ -89,13 +89,19 @@ export const PROJECTS = [
     imgSrc: project8,
     link: "https://github.com/SahlaThasnim89/weather-app",
   },
-  // {
-  //   id: 9,
-  //   title: "Voucher management Application",
-  //   description: "Seamlessly generate, manage, and distribute vouchers with customizable sizes and easy download/print options.",
-  //   imgSrc: project9,
-  //   link: "http://faslurahman.online/login",
-  // },
+  {
+    id: 9,
+    title: "Quick-cart : Quick Commerce & Delivery Tracking System (MERN + Next.js API)",
+    description: "Built with MongoDB, Render, Next.js, Next API, Tailwind CSS, and NextAuth, this project includes:
+✅ Real-Time Tracking with WebSockets (Socket.io) 📍
+✅ Role-Based Access Control (RBAC) for Customers & Delivery Partners 🔐
+✅ Live Delivery Location Tracking using Google Maps API 🗺️
+✅ Secure Environment Variables stored in .env.local 🔒
+✅ Setup Guide with installation & server instructions 📄
+✅ Test Credentials for Customer & Delivery Partner.",
+    imgSrc: project9,
+    link: "https://quick-commerse.onrender.com",
+  },
 ];
 
 export const ABOUT =
