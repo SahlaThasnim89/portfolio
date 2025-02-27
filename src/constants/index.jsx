@@ -91,7 +91,7 @@ export const PROJECTS = [
   },
   {
     id: 9,
-    title: "Quick-cart : Quick Commerce & Delivery Tracking System (MERN + Next.js API)",
+    title: "Quick-cart : Quick Commerce & Delivery Tracking System (Next.js + Next.js API)",
     description: "Built with MongoDB, Render, Next.js, Next API, Tailwind CSS, and NextAuth, featuring real-time tracking with Socket.io, RBAC for customers and delivery partners, and live delivery location tracking with Google Maps API.",
     imgSrc: project9,
     link: "https://quick-commerse.onrender.com",
