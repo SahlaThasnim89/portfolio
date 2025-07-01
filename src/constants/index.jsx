@@ -20,12 +20,12 @@ import project9 from "../assets/project9.webp";
 export const LINKS = [
   { id: "projects", name: "projects" },
   { id: "about", name: "about" },
-  // { id: "experience", name: "experience" },
+  { id: "experience", name: "experience" },
   { id: "contact", name: "Contact" },
 ];
 
 export const MARQUEE_TEXT =
-  "React, Node, MongoDb, Tailwind, postgreSql, Prisma ORM, Firebase, TypeScript,  Javascript, Redux, ejs, html, css, Express, GIT, GITHUB, Nginx, AWS , figma ,";
+  "React, React Native, Node, MongoDb, Tailwind, postgreSql, Prisma ORM, Firebase, TypeScript, Javascript, Redux, ejs, html, css, Express, GIT, GITHUB, Nginx, AWS , figma , docker, Kubernates, Google cloud, Microservices, Kafaka, socket io";
 
 export const PROJECTS = [
   {
@@ -102,20 +102,27 @@ export const ABOUT =
   "As a dedicated Full Stack Developer, I specialize in creating dynamic and responsive web applications that provide seamless user experiences. With a strong foundation in both front-end and back-end technologies, I excel in building robust and scalable solutions. My expertise includes working with JavaScript frameworks such as React and Node.js, as well as proficiency in databases like MongoDB and PostgreSQL. I am passionate about continuous learning and keeping up-to-date with the latest industry trends, which allows me to implement modern practices and tools in my projects.";
 
 export const EXPERIENCES = [
-  {
-    company: "Google",
-    role: "Software Engineer",
-    year: "12/2023 - Present",
+    {
+    company: "Beeyond Tech",
+    role: "Full Stack Developer | Software Developer",
+    year: "03/2025 - Present",
     description:
-      "Developing and maintaining scalable web applications using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
+      "Developing and maintaining scalable web applications, mobile applications and related services using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
   },
-  {
-    company: "Facebook",
-    role: "Frontend Developer",
-    year: "01/2021 - 11/2023",
-    description:
-      "Implemented user interfaces for web applications using React and Redux. Worked closely with designers to ensure seamless user experiences. Optimized components for maximum performance across a vast array of web-capable devices and browsers. Participated in code reviews and provided feedback to maintain high code quality.",
-  },
+  // {
+  //   company: "Google",
+  //   role: "Software Engineer",
+  //   year: "12/2023 - Present",
+  //   description:
+  //     "Developing and maintaining scalable web applications using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
+  // },
+  // {
+  //   company: "Facebook",
+  //   role: "Frontend Developer",
+  //   year: "01/2021 - 11/2023",
+  //   description:
+  //     "Implemented user interfaces for web applications using React and Redux. Worked closely with designers to ensure seamless user experiences. Optimized components for maximum performance across a vast array of web-capable devices and browsers. Participated in code reviews and provided feedback to maintain high code quality.",
+  // },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
