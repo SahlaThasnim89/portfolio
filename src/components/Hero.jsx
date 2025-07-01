@@ -17,7 +17,7 @@ const Hero = () => {
     </a>
             </div>
             <div className="w-full h-full flex justify-center items-center">
-                <img src={sahla} alt="sahla Thasnim" className="mt-8 h-96 w-1/3 object-cover" />
+                <img src={sahla} alt="sahla Thasnim" className="mt-8 h-96 w-full object-cover" />
 
             </div>
         </div>
