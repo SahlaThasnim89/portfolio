@@ -12,7 +12,7 @@ const Work = () => {
             <h2 className="font-medium lg:text-2xl">{experience.company}</h2>
             <div className="flex justify-center">
               <p className="py-4 tracking-wide lg:text-xl">{experience.role}</p>
-              <p className="py-4 lg:text-xl">{experience.year}</p>
+              <p className="py-4 lg:text-xl"> - {experience.year}</p>
             </div>
             <p className="font-normal text-gray-400">{experience.description}</p>
           </div>
