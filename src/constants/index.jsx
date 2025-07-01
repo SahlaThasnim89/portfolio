@@ -25,7 +25,7 @@ export const LINKS = [
 ];
 
 export const MARQUEE_TEXT =
-  "React, React Native, Node, MongoDb, Tailwind, postgreSql, Prisma ORM, Firebase, TypeScript, Javascript, Redux, ejs, html, css, Express, GIT, GITHUB, Nginx, AWS , figma , docker, Kubernates, Google cloud, Microservices, Kafaka, socket io ,";
+  "React, React Native, Node, MongoDb, Tailwind, postgreSql, Prisma ORM, Firebase, TypeScript, Javascript, Redux, ejs, html, css, Express, GIT, GITHUB, Nginx, AWS , figma , docker, Kubernates, Google cloud, Microservices, Kafka, socket io ,";
 
 export const PROJECTS = [
   {
